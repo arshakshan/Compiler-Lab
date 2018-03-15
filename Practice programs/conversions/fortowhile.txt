@@ -1,0 +1,7 @@
+for(i=0;i<5;i++)
+{
+printf("hello\n");
+int c;
+c=a+b;
+d=c*5;
+}
